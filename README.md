@@ -27,7 +27,7 @@ digit-recognition/
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/swirthuk/digit-recognition.git
+git clone https://github.com/zmeikova/digit-recognition.git
 cd digit-recognition
 ```
 
